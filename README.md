@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tetisheri12
+- 👋 Hi, I’m @tetisheri
 - 👀 I’m interested in UX and Front End design
-- 🌱 I’m currently learning Javascrpirt
+- 🌱 I’m currently learning Javascript for animation
 - 💞️ I’m looking to collaborate on social projects
 - 📫 How to reach me gmail
 
